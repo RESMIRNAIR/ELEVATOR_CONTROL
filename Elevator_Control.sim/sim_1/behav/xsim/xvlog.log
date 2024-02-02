@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES - Copy/Elevator_Control/Elevator_Control.srcs/sources_1/new/Elevator_Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Elevator_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES - Copy/Elevator_Control/Elevator_Control.srcs/sim_1/new/Elevator_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Elevator_test

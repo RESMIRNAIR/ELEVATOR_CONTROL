@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Elevator_Control.srcs/sources_1/new/Elevator_Control.v" \
+"../../../../Elevator_Control.srcs/sim_1/new/Elevator_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
